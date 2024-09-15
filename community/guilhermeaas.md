@@ -1,5 +1,5 @@
 # Guilhermeaas
-
+Olá me chamo Guilherme, tenho 25 anos, me formei em Análise e desenvolvimento de sistemas ano passado pela UNICESUMAR, estou buscando melhorar minhas habilidades em programação, para um dia conquistar minha primeira vaga na área.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silveira-837058203/)
 
